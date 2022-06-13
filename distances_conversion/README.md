@@ -1,4 +1,4 @@
-# Distance Convertions
+# Distances Conversion
 
 Estamos planejando uma viagem para os Estados Unidos 🇺🇸 e precisamos calcular as distâncias que vamos percorrer lá. O problema é que todas as distâncias estão em milhas. Precisamos fazer um programa que converta milhas para quilômetros e de quilômetros para milhas.
 
